@@ -1,3 +1,4 @@
 print("Hello World!")
 print("Hello everybody")
 Привет!!!
+print("Hello city")
